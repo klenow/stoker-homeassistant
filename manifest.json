@@ -1,0 +1,9 @@
+{
+    "domain": "stokercloud",
+    "name": "StokerCloud Integration",
+    "version": "1.0",
+    "documentation": "https://github.com/yourusername/stokercloud",
+    "requirements": ["aiohttp"],
+    "dependencies": [],
+    "codeowners": ["@yourgithubusername"]
+  }
